@@ -1,2 +1,1 @@
-# inform_job
-one-time task
+# resume.odt - run file
